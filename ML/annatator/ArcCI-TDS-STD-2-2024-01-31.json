@@ -1,0 +1,36 @@
+{
+    "images": [],
+    "annotation": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Water",
+            "supercategory": "geo"
+        },
+        {
+            "id": 1,
+            "name": "Thin Ice",
+            "supercategory": "geo"
+        },
+        {
+            "id": 2,
+            "name": "Shadow",
+            "supercategory": "geo"
+        },
+        {
+            "id": 3,
+            "name": "Ice/Snow",
+            "supercategory": "geo"
+        },
+        {
+            "id": 4,
+            "name": "Sub Ice",
+            "supercategory": "geo"
+        },
+        {
+            "id": 5,
+            "name": "Melt Pond",
+            "supercategory": "geo"
+        }
+    ]
+}

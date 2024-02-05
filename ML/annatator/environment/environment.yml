@@ -1,0 +1,15 @@
+name: ArcGui
+channels:
+  - defaults
+dependencies:
+  - ipykernel==5.1.0
+  - python=3.7
+  - gdal
+  - ipywidgets==7.6.3
+  - matplotlib
+  - jupyter
+  - rasterio==1.0.21
+  - h5py
+  - cython
+  - pip:
+    - scikit-image==0.19.1
