@@ -5,9 +5,9 @@
 
 <tiles-definitions>
 
-    <!-- DEFAULT DEFINITIONS -->
-    <definition name="home" template=".default">
-        <put-attribute name="body" value="/WEB-INF/views/home.jsp" />
+    <!-- DEFAULT TEMPLATES -->
+    <definition name=".default" template="/WEB-INF/layouts/stdLayout.jsp">
+        <put-attribute name="title" value="Celestial Terrain Analysis Portal" />
     </definition>
 
 </tiles-definitions>
